@@ -1,5 +1,5 @@
  	                                                              Hi there 👋, I'm Emre  
--How to reach me  [emreblblvv@gmail.com](emreblblvv@gmail.com) 
+- How to reach me  [emreblblvv@gmail.com](emreblblvv@gmail.com) 
  
 	
 Languages and Technologies :
