@@ -1,4 +1,4 @@
- 	                                                      Hi there 👋, I'm Emre  
+ 	                                                  Hi 👋, I'm Emre
 - How to reach me  [emreblblvv@gmail.com](emreblblvv@gmail.com) 
  
 	
