@@ -31,17 +31,3 @@
   </p>
 </div>
 
-<h2 align="center">📈 GitHub Statistics</h2>
-
-<div align="center">
-  <!-- Modified Language Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreblbl&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=html,css,scss&custom_title=Most%20Used%20Languages" alt="Most Used Languages"/>
-</div>
-
-<br/>
-
-
-<div align="center">
-  <h3>📊 Contribution Activity</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emreblbl&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</div>
