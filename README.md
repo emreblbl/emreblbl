@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">Software Engineer from Turkey</h3>
 
-<div align="center">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=emreblbl&color=brightgreen" alt="Profile views" />
-  </p>
-</div>
 
 <div align="center">
   <!-- Social Links -->
