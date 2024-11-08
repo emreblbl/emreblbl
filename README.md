@@ -6,7 +6,7 @@ I love researching; Always looking for good opportunities to learn more.
 
 🎓 Software Engineer 
 🏗️ Distributed Systems Engineer | DevOps & Infrastructure Specialist
-🤖 Robotic Researcher 
+🌐 IoT Research & Development
 ✨ Dreamer
 
 
