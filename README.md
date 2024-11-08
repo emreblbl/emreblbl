@@ -27,7 +27,7 @@ I love researching; Always looking for good opportunities to learn more.
 <div align="center">
   <h3>Languages & Frameworks</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,aws,react,python" />
+    <img src="https://skillicons.dev/icons?i=java,c,spring,docker,kubernetes,aws,react,python" />
   </p>
   <p>
     <img src="https://skillicons.dev/icons?i=redis,kafka,postgres,mongodb" />
