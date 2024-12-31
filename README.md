@@ -4,8 +4,7 @@
 I'm a dynamic person and able to work with various technologies or programming languages, I truly believe that these are essential tools for problem-solving, and we should always choose the most suitable tool for each specific issue.
 I love researching; Always looking for good opportunities to learn more.
 
-🎓 Software Engineer 
-🏗️ Distributed Systems Engineer | DevOps & Infrastructure Specialist
+&emsp;&emsp;&emsp;&emsp;&emsp; 🎓 Software Engineer  | DevOps & Infrastructure Specialist
 🌐 IoT Research & Development
 ✨ Dreamer
 
